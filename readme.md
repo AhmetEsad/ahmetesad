@@ -20,7 +20,6 @@
 - Skript içerisinden skript çalıştırma.
 
 0.0.2 Sürümündeki Bilinen Hatalar:
-- {a} {b} şeklinde denediğinizde çalışmıyor. Sebebi ise içerisini "a} {b" olarak alması (çözmesi imkansız gibi bir şey).
 - Sor komutunda cevap için yeterli süre vermiyor - direk geçiyor. Bekleme komutu da işe yaramıyor. Sor komutlarını şimdilik son satırlara yazın.
 
 Dosya Örnek Kullanımı:
