@@ -1,7 +1,7 @@
 {
   "name": "ahmetesad",
   "version": "0.0.2",
-  "description": "çalışıyor.",
+  "description": "çalışıyor",
   "main": "dil.js",
   "scripts": {
     "başlat": "node dil.js"
