@@ -1,7 +1,7 @@
 var inquirer = require('inquirer'),
     fs = require("fs"),
-    request = require("request");
-const low = require('lowdb'),
+    request = require("request"),
+    low = require('lowdb'),
     FileSync = require('lowdb/adapters/FileSync'),
     _ayarlar = new FileSync('ayarlar.json'),
     ayarlar_ = low(_ayarlar),
