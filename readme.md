@@ -1,7 +1,4 @@
 # ahmetesad
-çalışıyor.
-
-**Selam!** bu AhmetEsad dili.
 
 0.0.2 Güncellemesi:
 - Baştan yazılıyor.
