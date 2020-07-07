@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ahmetesad/ahmetesad#readme",
   "dependencies": {
     "chalk": "^2.4.2",
-    "electron": "^4.0.5",
+    "electron": "^9.1.0",
     "inquirer": "^6.2.2",
     "lowdb": "^1.0.0",
     "request": "^2.88.0"
